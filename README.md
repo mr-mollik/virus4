@@ -17,6 +17,3 @@ python2 Virus4.py
 #  _  _ ____ _  _ ____ _    _    _ _  _
 #  |\/| |--< |\/| [__] |___ |___ | |-:_
  
-{2} in kali linux and parrot os
-
-
